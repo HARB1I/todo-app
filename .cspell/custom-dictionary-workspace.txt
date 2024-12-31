@@ -1,0 +1,7 @@
+# Custom Dictionary Words
+logrus
+godotenv
+sslmode
+dbname
+sqlx
+Debugf
